@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.my-bg-body {
+    background-image: url('../image/fond.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
