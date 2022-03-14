@@ -21,7 +21,7 @@ L'objectif est de faire un forum de discution avec une interface de connexion.
 
 ## 2. Environnement technique
 
-- HTML 5 / CSS 3 / BOOTSTRAP 5
+- HTML 5 / CSS 3 / TAILWIND CSS
 - PHP 8.0.13 BDD mySQL -> MariaDB 10.4.22
 - Serveur Local Apache 2 via XAMPP
 - Pas de Design Patern pour ce petit projet
@@ -36,11 +36,15 @@ L'objectif est de faire un forum de discution avec une interface de connexion.
 
 - Via PHPmyAdmin, importez le fichier forumflo.sql dans votre BDD  
 
-- Vérifier les utilisateur et mot de passe dans le fichier connexion_bdd_inc.php (dans /inc/)  
+- Vérifier l'utilisateur et mot de passe dans le fichier connexion_bdd_inc.php (dans /inc/)  
 
 - Vous pouvez vous connecter avec l'identifiant Test, password : Azerty1234 
 
+- Lancer l'index.php qui est dans /src  
+
 - Tout devrais fonctionner à présent
+
+- Il est important de noter qu'il s'agit d'un de mes premiers projet, soyez indulgents
 
 #### Have fun
 
