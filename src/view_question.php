@@ -17,7 +17,7 @@ include('../action/view_question_action.php');
 </head>
 <?php include('../inc/header_inc.php'); ?>
 
-<body class="my-bg-body h-full">
+<body class="my-bg-body h-screen">
     <div class="  h-fit w-11/12 mt-4 mx-auto ">
         <div class="text-center text-white text-lg p-1"><?php echo $topic['title'] ?></div>
         <div class="flex bg-slate-300 w-11/12 mx-auto mb-1 border border-solid border-black">

@@ -2,10 +2,8 @@
 session_start();
 include('../action/getTermeAction.php');
 ?>
-
 <!DOCTYPE html>
 <html lang="fr">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,10 +11,7 @@ include('../action/getTermeAction.php');
     <link href="../dist/output.css" rel="stylesheet">
     <title>Forum</title>
 </head>
-<?php include('../inc/header_inc.php');
-
-?>
-
+<?php include('../inc/header_inc.php');?>
 <body class="my-bg-body h-screen">
 
     <div class=" border border-solid border-gray-400 rounded h-fit w-11/12 mt-4 mx-auto ">
@@ -85,9 +80,5 @@ include('../action/getTermeAction.php');
 
 
     </div>
-
-
-
 </body>
-
 </html>

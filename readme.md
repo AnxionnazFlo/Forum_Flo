@@ -13,6 +13,7 @@ L'objectif est de faire un forum de discution avec une interface de connexion.
 - Affichage des questions sur la page d'accueil
 - Possibilité de répondre aux Questions
 - Possibilité de modifier ou supprimer ses propres Questions
+- Fonction de recherche par titre de question
 
 #### 1.2 Contrainte technique : 
 
